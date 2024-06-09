@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dimasqiramadhani
-- 👀 I’m interested in Web Developer & Data Science
-- 🌱 I’m currently learning Front-End Javascript, React.js, and Node.js framework, also im currently learning about Data Science.
-- 💞️ I’m looking to collaborate on Web Development Project and Data Science.
+- 👀 I’m interested in Web Developer & Cyber Security
+- 🌱 I’m currently learning about Fullstack Development and also im currently learning about Cyber Security.
+- 💞️ I’m looking to collaborate on Web Development Project and Cyber Security.
 - 📫 How to reach me email: dimasqiramadhani@gmail.com & telephone: (+62)81258050811
 - 😄 Pronouns: He/Him
 
