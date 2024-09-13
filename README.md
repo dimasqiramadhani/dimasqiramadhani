@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dimasqiramadhani
+- 👋 Hi, I’m dimasqiramadhani
 - 👀 I’m interested in Web Developer & Web Design
-- 🌱 I’m currently learning about Fullstack Development and also im currently learning about Web Design.
-- 💞️ I’m looking to collaborate on Web Development Project.
+- 🌱 I’m currently learning about Backend Development Python and It's Framework and also im currently learning about Data Science.
+- 💞️ I’m looking to collaborate on Web Development and Data Analysis Project.
 - 📫 How to reach me email: dimasqiramadhani@gmail.com & telephone: (+62)82254331579
 - 😄 Pronouns: He/Him
 
