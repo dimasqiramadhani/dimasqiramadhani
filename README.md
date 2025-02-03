@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dimasqiramadhani
-- 👀 I’m young professional in Cyber Security & IT Infrastructure
+- 👀 I’m a young professional in Cyber Security & IT Infrastructure
 - 🌱 I’m currently learning about Bash script & C programming language.
 - 💞️ I’m looking to collaborate on Cyber Security Project.
 - 📫 How to reach me email: dimasqiramadhani@gmail.com & telephone: (+62)82254331579
