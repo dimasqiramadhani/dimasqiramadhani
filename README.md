@@ -11,9 +11,8 @@ I enjoy building hands-on labs, documenting security experiments, and turning te
 - 🔐 Interested in Cybersecurity, Red Team, Blue Team, and Threat Detection
 - 🧪 Building hands-on security labs and simulation environments
 - 📊 Exploring SIEM, XDR, BAS, and Threat Intelligence platforms
-- 🛠️ Working with tools such as Elastic Security, Wazuh, Picus Security, Tenable, and Linux
-- 💻 Also learning and building projects with Python, JavaScript, Flask, and PostgreSQL
-- 📚 Currently improving my skills in offensive security, detection engineering, and full-stack development
+- 🛠️ Working with tools such as Elastic Security, Wazuh, Picus Security, Qualys, and Linux
+- 📚 Currently improving my skills in offensive security, detection engineering, and Breach & Attack Simulation
 
 ---
 
