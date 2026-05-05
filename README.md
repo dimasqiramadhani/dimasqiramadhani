@@ -9,9 +9,3 @@ I am a Security Engineer and IT Infrastructure enthusiast with a strong interest
 - 📊 Exploring SIEM, XDR, BAS, and Threat Intelligence platforms
 - 🛠️ Working with tools such as Elastic Security, Wazuh, Picus Security, Qualys, and Linux
 - 📚 Currently improving my skills in offensive security, detection engineering, and Breach & Attack Simulation
-
-## 📫 Connect With Me
-
-- Email: dimasqiramadhani@gmail.com
-
----
