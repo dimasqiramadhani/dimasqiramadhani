@@ -4,8 +4,8 @@ I am a Security Engineer and IT Infrastructure enthusiast with a strong interest
 
 ## 🧠 About Me
 
-- 🔐 Interested in Cybersecurity, Red Team, Blue Team, and Threat Detection
+- 🔐 Interested in Cybersecurity, Blue Team, Vulnerability Assessment and Threat Detection
 - 🧪 Building hands-on security labs and simulation environments
-- 📊 Exploring SIEM, XDR, BAS, and Threat Intelligence platforms
-- 🛠️ Working with tools such as Elastic Security, Wazuh, Picus Security, Qualys, and Linux
-- 📚 Currently improving my skills in offensive security, detection engineering, and Breach & Attack Simulation
+- 📊 Exploring Security Monitoring, Vulnerability Assessment, Breach & Attack Simulation, and Threat Intelligence platforms
+- 🛠️ Working with tools such as Elastic Security, Wazuh, Picus Security, Tenable One
+- 📚 Currently improving my skills in detection engineering, and Incident Response
