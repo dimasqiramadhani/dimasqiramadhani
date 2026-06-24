@@ -1,143 +1,27 @@
-<!-- ===================================================== -->
-<!--                    HEADER / BANNER                    -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d7a,100:00b4d8&height=180&section=header&text=Dimasqi%20Ramadhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer&descSize=16&descAlignY=58" width="100%"/>
-
-<a href="https://github.com/dimasqiramadhani">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Blue+Team+%7C+SOC+L2+Analyst;Detection+Engineering+%7C+Threat+Hunting;Building+SIEM+labs+%26+breaking+them+again;whoami%3A+laborology" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<a href="https://linkedin.com/in/dimasqiramadhani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/laborology"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:dimasqiramadhani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dimasqiramadhani.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00B4D8"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=dimasqiramadhani&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS"/>
-
-</div>
-
-<!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
-<!-- ===================================================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `whoami`
-
-```python
-class SecurityEngineer:
-    def __init__(self):
-        self.name        = "Dimasqi Ramadhani"
-        self.role        = "Security Engineer @ PT Visionet Data Internasional"
-        self.focus       = ["Blue Team", "Detection Engineering", "Threat Hunting"]
-        self.daily_ops   = ["SOC L2 Triage", "Use-Case Development", "BAS Validation"]
-        self.mindset     = "Build it. Break it. Detect it. Document it."
-
-    def current_grind(self):
-        return "Engineering a multi-node Wazuh SIEM + AD red team detection lab 🧪"
-```
-
-> I'm a Security Engineer & IT Infrastructure enthusiast focused on **detection engineering**, **red team simulation**, and **practical security research**. I build hands-on labs, run them through the kill chain, and turn the telemetry into clear, structured detection logic.
-
-<br/>
-
-- 🛡️ &nbsp; **Blue Team** — Security Monitoring, Vulnerability Assessment & Threat Detection
-- 🧪 &nbsp; Building hands-on **security labs** and **simulation environments**
-- 📊 &nbsp; Exploring **SIEM**, **Breach & Attack Simulation**, and **Threat Intelligence** platforms
-- ⚙️ &nbsp; Engineering custom detection rules, SOAR logic & anomaly pipelines on **Wazuh**
-- 🚀 &nbsp; Leveling up in **Detection Engineering** & **Incident Response**
-
-<br/>
-
-<!-- ===================================================== -->
-<!--                      TECH STACK                       -->
-<!-- ===================================================== -->
-
-## 🧰 `arsenal`
-
-#### 🔭 SIEM / Detection & Monitoring
-![Wazuh](https://img.shields.io/badge/Wazuh-3B7DDD?style=flat-square&logo=wazuh&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Security-005571?style=flat-square&logo=elastic&logoColor=white)
-![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-3A86FF?style=flat-square&logo=elasticstack&logoColor=white)
-
-#### 🩸 Offensive / Breach & Attack Simulation
-![Picus](https://img.shields.io/badge/Picus_Security-E63946?style=flat-square&logo=target&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Atomic](https://img.shields.io/badge/Atomic_Red_Team-D7263D?style=flat-square&logo=hackthebox&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square&logo=mitre&logoColor=white)
-
-#### 🔍 Vulnerability Assessment
-![Tenable](https://img.shields.io/badge/Tenable_One-00558C?style=flat-square&logo=tenable&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B5E2?style=flat-square&logo=tenable&logoColor=white)
-
-#### 🧠 Threat Intelligence & Detection Content
-![OpenCTI](https://img.shields.io/badge/OpenCTI-001F3F?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-1F6FEB?style=flat-square&logo=hackaday&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-44475A?style=flat-square&logo=yara&logoColor=white)
-![STIX](https://img.shields.io/badge/STIX%2FTAXII-6E40C9?style=flat-square&logo=stackexchange&logoColor=white)
-
-#### 💻 Languages & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-
-<br/>
-
-<!-- ===================================================== -->
-<!--                     GITHUB STATS                      -->
-<!-- ===================================================== -->
-
-## 📈 `stats --since=always`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dimasqiramadhani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasqiramadhani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasqiramadhani&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"/>
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-<!--                    PINNED / FOCUS                     -->
-<!-- ===================================================== -->
-
-## 🎯 `currently_engineering`
-
-```log
-[+] Multi-node Wazuh 4.14.5 SIEM lab (13 VMs) with full AD red team kill-chain detection
-[+] PPL Rule Engine — scheduled OpenSearch queries for detection beyond per-event rules
-[+] Wazuh-native SOAR — CDB-list decision logic + agent-side active response
-[+] BlueTelemetry — Django platform for Wazuh telemetry & detection validation
-[*] Packaging every lab into a portfolio artifact → github.com/dimasqiramadhani
-```
-
-<br/>
-
-<!-- ===================================================== -->
-<!--                      FOOTER QUOTE                     -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br/><br/>
-
-> *"You can't defend what you can't see — so log everything, then make it tell a story."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a4d7a,100:0d1117&height=120&section=footer"/>
-
-</div>
+<!--
+  GitHub Profile README — Cyberfolio Theme (matched to portfolio.dimasqiramadhani.com)
+  Palette: bg #020617 / #0f172a, accent emerald #10b981 / #34d399, text-muted #94a3b8
+  Rename this file to README.md in your profile repository.
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,55:0f172a,100:10b981&text=Dimasqi%20Ramadhani&fontColor=f8fafc&fontSize=46&fontAlignY=38&desc=Security%20Engineer&descAlignY=58&descSize=15" alt="Dimasqi Ramadhani profile banner" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=10B981&center=true&vCenter=true&width=760&lines=I+build+Projects+that+tell+a+story.;Blue+Team+mindset%2C+Red+Team+curiosity.;Detect+%E2%86%92+Validate+%E2%86%92+Document+%E2%86%92+Improve." alt="Typing SVG" />
+</p>
+<p align="center">
+  <a href="https://dimasqiramadhani.com"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDEuNjA4bDEyIDIwLjc4NEgweiIvPjwvc3ZnPg==&logoColor=10b981" alt="Portfolio" /></a>
+  <a href="mailto:dimasqiramadhani@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTI0IDUuNDU3djEzLjkwOWMwIC45MDQtLjczMiAxLjYzNi0xLjYzNiAxLjYzNmgtMy44MTlWMTEuNzNMMTIgMTYuNjRsLTYuNTQ1LTQuOTF2OS4yNzNIMS42MzZBMS42MzYgMS42MzYgMCAwIDEgMCAxOS4zNjZWNS40NTdjMC0yLjAyMyAyLjMwOS0zLjE3OCAzLjkyNy0xLjk2NEw1LjQ1NSA0LjY0IDEyIDkuNTQ4bDYuNTQ1LTQuOTEgMS41MjgtMS4xNDVDMjEuNjkgMi4yOCAyNCAzLjQzNCAyNCA1LjQ1N3oiLz48L3N2Zz4=&logoColor=34d399" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dimasqiramadhani"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=34d399" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/dimasqiramadhani"><img src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDIuMTYzYzMuMjA0IDAgMy41ODQuMDEyIDQuODUuMDcgMS4zNjYuMDYyIDIuNjMzLjMzNiAzLjYwOCAxLjMxMS45NzUuOTc1IDEuMjQ5IDIuMjQyIDEuMzExIDMuNjA4LjA1OCAxLjI2Ni4wNyAxLjY0Ni4wNyA0Ljg1cy0uMDEyIDMuNTg0LS4wNyA0Ljg1Yy0uMDYyIDEuMzY2LS4zMzYgMi42MzMtMS4zMTEgMy42MDgtLjk3NS45NzUtMi4yNDIgMS4yNDktMy42MDggMS4zMTEtMS4yNjYuMDU4LTEuNjQ2LjA3LTQuODUuMDdzLTMuNTg0LS4wMTItNC44NS0uMDdjLTEuMzY2LS4wNjItMi42MzMtLjMzNi0zLjYwOC0xLjMxMS0uOTc1LS45NzUtMS4yNDktMi4yNDItMS4zMTEtMy42MDgtLjA1OC0xLjI2Ni0uMDctMS42NDYtLjA3LTQuODVzLjAxMi0zLjU4NC4wNy00Ljg1Yy4wNjItMS4zNjYuMzM2LTIuNjMzIDEuMzExLTMuNjA4Ljk3NS0uOTc1IDIuMjQyLTEuMjQ5IDMuNjA4LTEuMzExIDEuMjY2LS4wNTggMS42NDYtLjA3IDQuODUtLjA3ek0xMiAwQzguNzQxIDAgOC4zMzMuMDE0IDcuMDUzLjA3MiA1Ljc3NS4xMzIgNC45MDUuMzMzIDQuMTQuNjNjLS43ODkuMzA2LTEuNDU5LjcxNy0yLjEyNiAxLjM4NFMuOTM1IDMuMzUuNjMgNC4xNEMuMzMzIDQuOTA1LjEzMSA1Ljc3NS4wNzIgNy4wNTMuMDE0IDguMzMzIDAgOC43NDEgMCAxMnMuMDE0IDMuNjY3LjA3MiA0Ljk0N2MuMDYgMS4yNzcuMjYxIDIuMTQ4LjU1OCAyLjkxMy4zMDYuNzg4LjcxNyAxLjQ1OSAxLjM4NCAyLjEyNi42NjcuNjY2IDEuMzM2IDEuMDc5IDIuMTI2IDEuMzg0Ljc2Ni4yOTYgMS42MzYuNDk5IDIuOTEzLjU1OEM4LjMzMyAyMy45ODYgOC43NDEgMjQgMTIgMjRzMy42NjctLjAxNCA0Ljk0Ny0uMDcyYzEuMjc3LS4wNiAyLjE0OC0uMjYyIDIuOTEzLS41NTguNzg4LS4zMDYgMS40NTktLjcxOCAyLjEyNi0xLjM4NC42NjYtLjY2NyAxLjA3OS0xLjMzNSAxLjM4NC0yLjEyNi4yOTYtLjc2NS40OTktMS42MzYuNTU4LTIuOTEzLjA1OC0xLjI4LjA3Mi0xLjY4OC4wNzItNC45NDdzLS4wMTQtMy42NjctLjA3Mi00Ljk0N2MtLjA2LTEuMjc3LS4yNjItMi4xNDktLjU1OC0yLjkxMy0uMzA2LS43ODktLjcxOC0xLjQ1OS0xLjM4NC0yLjEyNkMyMS4zMTkgMS4zNDcgMjAuNjUxLjkzNSAxOS44Ni42M2MtLjc2NS0uMjk3LTEuNjM2LS40OTktMi45MTMtLjU1OEMxNS42NjcuMDE0IDE1LjI1OSAwIDEyIDB6bTAgNS44MzhhNi4xNjIgNi4xNjIgMCAxIDAgMCAxMi4zMjQgNi4xNjIgNi4xNjIgMCAwIDAgMC0xMi4zMjR6TTEyIDE2YTQgNCAwIDEgMSAwLTggNCA0IDAgMCAxIDAgOHptNi40MDYtMTEuODQ1YTEuNDQgMS40NCAwIDEgMCAwIDIuODgxIDEuNDQgMS40NCAwIDAgMCAwLTIuODgxeiIvPjwvc3ZnPg==&logoColor=34d399" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dimasqiramadhani&style=for-the-badge&color=10b981&label=PROFILE+VIEWS&abbreviated=true&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDQuNUM3IDQuNSAyLjczIDcuNjEgMSAxMmMxLjczIDQuMzkgNiA3LjUgMTEgNy41czkuMjctMy4xMSAxMS03LjVjLTEuNzMtNC4zOS02LTcuNS0xMS03LjV6TTEyIDE3Yy0yLjc2IDAtNS0yLjI0LTUtNXMyLjI0LTUgNS01IDUgMi4yNCA1IDUtMi4yNCA1LTUgNXptMC04Yy0xLjY2IDAtMyAxLjM0LTMgM3MxLjM0IDMgMyAzIDMtMS4zNCAzLTMtMS4zNC0zLTMtM3oiLz48L3N2Zz4=&logoColor=34d399" alt="Profile views" />
+</p>
+<p align="center">
+  I work around security monitoring, vulnerability assessment, SIEM operations, and practical lab engineering. My sweet spot is turning messy telemetry into clear detection stories: what happened, why it matters, and how to prove it.
+</p>
+<p align="center">
+  <i>"You can't defend what you can't see so log everything, then make it tell a story."</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,55:0f172a,100:10b981" alt="footer" />
+</p>
