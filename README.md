@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d7a,100:00b4d8&height=180&section=header&text=Dimasqi%20Ramadhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%E2%80%A2%20Detection%20Engineering%20%E2%80%A2%20Threat%20Detection&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d7a,100:00b4d8&height=180&section=header&text=Dimasqi%20Ramadhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer&descSize=16&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/dimasqiramadhani">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Blue+Team+%7C+SOC+L2+Analyst;Detection+Engineering+%7C+Threat+Hunting;Building+SIEM+labs+%26+breaking+them+again;whoami%3A+laborology" alt="Typing SVG"/>
