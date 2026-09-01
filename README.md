@@ -1,26 +1,72 @@
 <!--
-  GitHub Profile README — Cyberfolio Theme (matched to portfolio.dimasqiramadhani.com)
-  Palette: bg #020617 / #0f172a, accent emerald #10b981 / #34d399, text-muted #94a3b8
-  Rename this file to README.md in your profile repository.
+  GitHub Profile README — Cyberfolio Theme
+  Matched to dimasqiramadhani.com
+
+  Professional focus:
+  Security Engineer | Blue Team & Network Security
+
+  Palette:
+  bg #020617 / #0f172a
+  accent emerald #10b981 / #34d399
+  text-muted #94a3b8
 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,55:0f172a,100:10b981&text=Dimasqi%20Ramadhani&fontColor=f8fafc&fontSize=46&fontAlignY=38&desc=Security%20Engineer&descAlignY=58&descSize=15" alt="Dimasqi Ramadhani profile banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,55:0f172a,100:10b981&text=Dimasqi%20Ramadhani&fontColor=f8fafc&fontSize=46&fontAlignY=38&desc=Blue%20Team%20%26%20Network%20Security%20Engineer&descAlignY=58&descSize=15"
+    alt="Dimasqi Ramadhani profile banner"
+  />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=10B981&center=true&vCenter=true&width=760&lines=I+build+Projects+that+tell+a+story.;Blue+Team+mindset%2C+Red+Team+curiosity.;Detect+%E2%86%92+Validate+%E2%86%92+Document+%E2%86%92+Improve." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=10B981&center=true&vCenter=true&width=820&lines=Blue+Team+%7C+Network+Security+%7C+Detection+Engineering;Network+Visibility+%E2%86%92+Detect+%E2%86%92+Validate+%E2%86%92+Automate;Building+practical+security+systems+from+telemetry+to+detection."
+    alt="Typing SVG"
+  />
 </p>
+
 <p align="center">
-  <a href="https://dimasqiramadhani.com"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDEuNjA4bDEyIDIwLjc4NEgweiIvPjwvc3ZnPg==&logoColor=10b981" alt="Portfolio" /></a>
-  <a href="mailto:dimasqiramadhani@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTI0IDUuNDU3djEzLjkwOWMwIC45MDQtLjczMiAxLjYzNi0xLjYzNiAxLjYzNmgtMy44MTlWMTEuNzNMMTIgMTYuNjRsLTYuNTQ1LTQuOTF2OS4yNzNIMS42MzZBMS42MzYgMS42MzYgMCAwIDEgMCAxOS4zNjZWNS40NTdjMC0yLjAyMyAyLjMwOS0zLjE3OCAzLjkyNy0xLjk2NEw1LjQ1NSA0LjY0IDEyIDkuNTQ4bDYuNTQ1LTQuOTEgMS41MjgtMS4xNDVDMjEuNjkgMi4yOCAyNCAzLjQzNCAyNCA1LjQ1N3oiLz48L3N2Zz4=&logoColor=34d399" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/dimasqiramadhani"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=34d399" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/dimasqiramadhani"><img src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDIuMTYzYzMuMjA0IDAgMy41ODQuMDEyIDQuODUuMDcgMS4zNjYuMDYyIDIuNjMzLjMzNiAzLjYwOCAxLjMxMS45NzUuOTc1IDEuMjQ5IDIuMjQyIDEuMzExIDMuNjA4LjA1OCAxLjI2Ni4wNyAxLjY0Ni4wNyA0Ljg1cy0uMDEyIDMuNTg0LS4wNyA0Ljg1Yy0uMDYyIDEuMzY2LS4zMzYgMi42MzMtMS4zMTEgMy42MDgtLjk3NS45NzUtMi4yNDIgMS4yNDktMy42MDggMS4zMTEtMS4yNjYuMDU4LTEuNjQ2LjA3LTQuODUuMDdzLTMuNTg0LS4wMTItNC44NS0uMDdjLTEuMzY2LS4wNjItMi42MzMtLjMzNi0zLjYwOC0xLjMxMS0uOTc1LS45NzUtMS4yNDktMi4yNDItMS4zMTEtMy42MDgtLjA1OC0xLjI2Ni0uMDctMS42NDYtLjA3LTQuODVzLjAxMi0zLjU4NC4wNy00Ljg1Yy4wNjItMS4zNjYuMzM2LTIuNjMzIDEuMzExLTMuNjA4Ljk3NS0uOTc1IDIuMjQyLTEuMjQ5IDMuNjA4LTEuMzExIDEuMjY2LS4wNTggMS42NDYtLjA3IDQuODUtLjA3ek0xMiAwQzguNzQxIDAgOC4zMzMuMDE0IDcuMDUzLjA3MiA1Ljc3NS4xMzIgNC45MDUuMzMzIDQuMTQuNjNjLS43ODkuMzA2LTEuNDU5LjcxNy0yLjEyNiAxLjM4NFMuOTM1IDMuMzUuNjMgNC4xNEMuMzMzIDQuOTA1LjEzMSA1Ljc3NS4wNzIgNy4wNTMuMDE0IDguMzMzIDAgOC43NDEgMCAxMnMuMDE0IDMuNjY3LjA3MiA0Ljk0N2MuMDYgMS4yNzcuMjYxIDIuMTQ4LjU1OCAyLjkxMy4zMDYuNzg4LjcxNyAxLjQ1OSAxLjM4NCAyLjEyNi42NjcuNjY2IDEuMzM2IDEuMDc5IDIuMTI2IDEuMzg0Ljc2Ni4yOTYgMS42MzYuNDk5IDIuOTEzLjU1OEM4LjMzMyAyMy45ODYgOC43NDEgMjQgMTIgMjRzMy42NjctLjAxNCA0Ljk0Ny0uMDcyYzEuMjc3LS4wNiAyLjE0OC0uMjYyIDIuOTEzLS41NTguNzg4LS4zMDYgMS40NTktLjcxOCAyLjEyNi0xLjM4NC42NjYtLjY2NyAxLjA3OS0xLjMzNSAxLjM4NC0yLjEyNi4yOTYtLjc2NS40OTktMS42MzYuNTU4LTIuOTEzLjA1OC0xLjI4LjA3Mi0xLjY4OC4wNzItNC45NDdzLS4wMTQtMy42NjctLjA3Mi00Ljk0N2MtLjA2LTEuMjc3LS4yNjItMi4xNDktLjU1OC0yLjkxMy0uMzA2LS43ODktLjcxOC0xLjQ1OS0xLjM4NC0yLjEyNkMyMS4zMTkgMS4zNDcgMjAuNjUxLjkzNSAxOS44Ni42M2MtLjc2NS0uMjk3LTEuNjM2LS40OTktMi45MTMtLjU1OEMxNS42NjcuMDE0IDE1LjI1OSAwIDEyIDB6bTAgNS44MzhhNi4xNjIgNi4xNjIgMCAxIDAgMCAxMi4zMjQgNi4xNjIgNi4xNjIgMCAwIDAgMC0xMi4zMjR6TTEyIDE2YTQgNCAwIDEgMSAwLTggNCA0IDAgMCAxIDAgOHptNi40MDYtMTEuODQ1YTEuNDQgMS40NCAwIDEgMCAwIDIuODgxIDEuNDQgMS40NCAwIDAgMCAwLTIuODgxeiIvPjwvc3ZnPg==&logoColor=34d399" alt="Instagram" /></a>
+  <a href="https://dimasqiramadhani.com">
+    <img
+      src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDEuNjA4bDEyIDIwLjc4NEgweiIvPjwvc3ZnPg==&logoColor=10b981"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="mailto:dimasqiramadhani@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=34d399"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dimasqiramadhani">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=34d399"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://instagram.com/dimasqiramadhani">
+    <img
+      src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=34d399"
+      alt="Instagram"
+    />
+  </a>
 </p>
+
 <p align="center">
-  I work around security monitoring, vulnerability assessment, detection engineering, offensive security, and practical documentations. My sweet spot is turning messy telemetry into clear detection stories: what happened, why it matters, and how to prove it.
+  Security Engineer focused on blue team operations, network security, detection engineering, vulnerability management, and security automation.
+  I build practical security solutions across network visibility, SIEM, telemetry, infrastructure monitoring, security validation, and automated workflows.
 </p>
+
 <p align="center">
-  <i>"You can't defend what you can't see so log everything, then make it tell a story."</i>
+  <i>"You can't defend what you can't see. Build visibility, understand the traffic, detect what matters."</i>
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,55:0f172a,100:10b981" alt="footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,55:0f172a,100:10b981"
+    alt="footer"
+  />
 </p>
